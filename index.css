@@ -1,0 +1,135 @@
+.name h1{
+ position: relative;
+  left:8em; 
+}
+
+.line{
+ position: relative;
+  left:18em; 
+}
+
+.line1{
+ position: absolute; 
+  top: 0.5em;
+  right:10em; 
+}
+
+.line2 ul{
+background-image: linear-gradient(to right, gray,white);
+}
+
+.search{
+ position: absolute; 
+  top: 1em;
+  right:10em; 
+}
+
+
+.line2 h3{
+color:orange;
+font-size:1em;
+
+}
+
+.line p{
+font-size:18px;
+color:black;
+}
+
+.line2{
+position: absolute; 
+  
+  left:17em; 
+  top:32em;
+}
+
+.line3 h3{
+background:green;
+}
+.line3{
+  
+  position: absolute; 
+  
+  left:17em; 
+  top:54em;
+}
+
+.line3 p{
+border: 2px solid gray;
+background-image: linear-gradient(to right, gray,white);
+
+}
+
+.line4 h3{
+background:green;
+}
+
+.line4 p{
+border: 2px solid gray;
+background-image: linear-gradient(to right, gray,white);
+}
+
+.line4{
+position: absolute; 
+  
+  left:17em; 
+  top:80em;
+}
+
+.line5{
+position: absolute; 
+  
+  right:17em; 
+  top:32em;
+
+}
+
+figure{
+
+background:red;
+
+}
+
+.pic2 p{
+position:relative;
+left:45em;
+
+}
+
+.bar{
+
+position: absolute; 
+  
+  right:10em;
+}
+
+.line5 h2{
+font-size:1em;
+}
+
+.border{
+border: 2px solid orange;
+}
+
+
+
+.float{
+
+float : right;
+ 
+}
+
+.picture{
+  position: absolute; 
+  
+  right:18em; 
+}
+
+
+footer{
+background-image: linear-gradient(to right, gray,white);
+position: absolute; 
+  right:30em;
+  top:180em;
+  font-size:12px;
+}
